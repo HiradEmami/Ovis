@@ -265,3 +265,12 @@ This project is licensed under the [Apache License, Version 2.0](https://www.apa
 
 ## Disclaimer
 We used compliance-checking algorithms during the training process, to ensure the compliance of the trained model to the best of our ability. Due to the complexity of the data and the diversity of language model usage scenarios, we cannot guarantee that the model is completely free of copyright issues or improper content. If you believe anything infringes on your rights or generates improper content, please contact us, and we will promptly address the matter.
+
+## Pelagion source baseline
+
+[`.pelagion-src-version`](.pelagion-src-version) records the initial source baseline for
+`feat/init-pelagion-takeover`. It identifies the original upstream and the Pelagion
+fork by repository name and ID. It records their main/master branch commit hashes,
+commit timestamps, tags and declared versions where available. The fork commit is
+the exact base of the initial feature branch. This is a fixed provenance record;
+it does not update automatically when branches advance. Git history preserves it.

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "recorded_at_utc": "2026-09-29T10:07:54+00:00",
+  "purpose": "Immutable initial Pelagion takeover source baseline",
+  "feature_branch": "feat/init-pelagion-takeover",
+  "upstream": {
+    "repository": {
+      "id": 814502811,
+      "node_id": "R_kgDOMIxTmw",
+      "name": "Ovis",
+      "full_name": "ATH-MaaS/Ovis",
+      "html_url": "https://github.com/ATH-MaaS/Ovis",
+      "clone_url": "https://github.com/ATH-MaaS/Ovis.git",
+      "default_branch": "main",
+      "created_at": "2024-06-13T06:30:56Z",
+      "updated_at": "2026-09-28T07:26:19Z",
+      "pushed_at": "2026-07-15T14:04:16Z",
+      "fork": false,
+      "private": false,
+      "size": 36819
+    },
+    "branch": "main",
+    "commit": {
+      "sha": "e1916bf3cb0ca123e71ab173ff4463df5c3a71b5",
+      "tree_sha": "c2e65656e584f18e42fabb79b6d217e001d1cf99",
+      "author_timestamp": "2026-07-15T22:04:12+08:00",
+      "committer_timestamp": "2026-07-15T22:04:12+08:00",
+      "subject": "add OvisOCR2 technical Report",
+      "reachable_commit_count": 57,
+      "exact_tags": [],
+      "describe": "e1916bf",
+      "declared_versions": {}
+    }
+  },
+  "fork": {
+    "repository": {
+      "id": 1394672622,
+      "node_id": "R_kgDOUyED7g",
+      "name": "Ovis",
+      "full_name": "HiradEmami/Ovis",
+      "html_url": "https://github.com/HiradEmami/Ovis",
+      "clone_url": "https://github.com/HiradEmami/Ovis.git",
+      "default_branch": "main",
+      "created_at": "2026-09-29T07:58:38Z",
+      "updated_at": "2026-09-29T07:58:38Z",
+      "pushed_at": "2026-07-15T14:04:16Z",
+      "fork": true,
+      "private": false,
+      "size": 36819
+    },
+    "branch": "main",
+    "commit": {
+      "sha": "e1916bf3cb0ca123e71ab173ff4463df5c3a71b5",
+      "tree_sha": "c2e65656e584f18e42fabb79b6d217e001d1cf99",
+      "author_timestamp": "2026-07-15T22:04:12+08:00",
+      "committer_timestamp": "2026-07-15T22:04:12+08:00",
+      "subject": "add OvisOCR2 technical Report",
+      "reachable_commit_count": 57,
+      "exact_tags": [],
+      "describe": "e1916bf",
+      "declared_versions": {}
+    },
+    "previous_remote_commit": "e1916bf3cb0ca123e71ab173ff4463df5c3a71b5"
+  },
+  "network_source": {
+    "id": 814502811,
+    "node_id": "R_kgDOMIxTmw",
+    "name": "Ovis",
+    "full_name": "ATH-MaaS/Ovis",
+    "html_url": "https://github.com/ATH-MaaS/Ovis",
+    "clone_url": "https://github.com/ATH-MaaS/Ovis.git",
+    "default_branch": "main",
+    "created_at": "2024-06-13T06:30:56Z",
+    "updated_at": "2026-09-28T07:26:19Z",
+    "pushed_at": "2026-07-15T14:04:16Z",
+    "fork": false,
+    "private": false,
+    "size": 36819
+  },
+  "feature_base_commit": "e1916bf3cb0ca123e71ab173ff4463df5c3a71b5",
+  "source_observed_at_utc": "2026-09-29T10:01:34+00:00",
+  "historical_fork_creation_commit": null,
+  "notes": [
+    "The GitHub repository ID and node ID identify each repository, not a commit.",
+    "Reachable commit count is a history count, not a release number. Exact tags and declared package versions may be absent.",
+    "GitHub creation timestamps do not establish the original fork-creation commit.",
+    "This baseline does not update automatically after later merges. Git history preserves subsequent edits.",
+    "The feature commit containing this file is recorded in Git history; it cannot contain its own hash."
+  ]
+}
